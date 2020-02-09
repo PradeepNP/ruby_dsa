@@ -6,5 +6,5 @@ In computer science, a data structure is a data organization, management, and st
 
 ## Table of content
 > As I am going through each Data structure I will be adding those to the list. There will be no particular order.
-- [Heap - max heap version]()
+- [Heap - max heap version](./heap/README.md)
 - 
