@@ -10,7 +10,7 @@ Generally Heap can be in two types:
 # Application of Heap DS
 Heap Data Structure is originated by Heapsort. But, generally the quick sort is better than Heapsort. Nevertheless, the Heapsort Data Structure has it own application. One of them is Priority Queue, because it supports insert(), delete(), max(), descreasekey() function in O(log n). Binominal Heap and Fibonacci Heap are the variation of Binary Heap. 
 
-> Find smallest or largest Kth element in an array efficiently in Heap DS
+> Find smallest or largest Kth element in an array efficiently using Heap DS
 
 # References
 - [Wikipedia]()
