@@ -26,4 +26,7 @@ return -1 # If the element is not found
 | Average performance	| O(log n) |
 | Worst-case space complexity | O(1) |
 
+# Binary Search Problems
+- [Finding First or last occurence of an element in sorted array](FindFirstOrLastElement.md)
+- [Count occurences of a number in sorted array](CountOccurencesOfNumber.md)
 	
